@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/s13g/PycharmProjects/Compiler/myenv"
+VIRTUAL_ENV="/home/s13g/PycharmProjects/PyCompiler/myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
